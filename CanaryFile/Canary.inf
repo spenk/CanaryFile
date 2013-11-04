@@ -1,2 +1,2 @@
-main-class=com.topicarp.spenk.canaryfile.FileDatabase
-database-name=CanaryFlatFile
+main-class=net.bplaced.spenk.canaryfile.FileDatabase
+database-name=FlatFile
